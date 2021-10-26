@@ -14,7 +14,7 @@ draft: true
 featured: false
 image:
   filename: ""
-  focal_point: Smart
-  preview_only: false
+  focal_point: ""
+  preview_only: true
 date: 2021-10-26T18:26:05.071Z
 ---
