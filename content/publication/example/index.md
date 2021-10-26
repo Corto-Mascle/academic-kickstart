@@ -17,7 +17,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 publication: STACS 2019
-featured: true
+featured: false
 date: 2021-10-26T18:21:47.490Z
 url_slides: ""
 title: On Finite Monoids over Nonnegative Integer Matrices and Short Killing Words
@@ -27,7 +27,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://drops.dagstuhl.de/opus/volltexte/2019/10282/pdf/LIPIcs-STACS-2019-43.pdf
