@@ -17,7 +17,7 @@ organizations:
 bio: I am doing my PhD under the supervision of Anca Muscholl and Igor Walukiewicz at LaBRI in Bordeaux. My thesis is about problems of monitoring and control over models of distributed systems, but I am interested in most things related to automata, temporal logics, games and formal verification.
 
 # Interests to show in About widget
-interests:[]
+# interests:[]
 
 # Education to show in About widget
 # education:
