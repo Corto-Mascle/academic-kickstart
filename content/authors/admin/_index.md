@@ -1,5 +1,5 @@
 ---
-title: admin
+title: Corto Mascle
 role: PhD student
 avatar_filename: img_20201125_152327.jpg
 bio: I am a PhD student in LaBRI, Bordeaux, under the supervision of Anca
