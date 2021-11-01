@@ -19,7 +19,7 @@ author_notes:
   - ENS Paris-Saclay
 publication: STACS 2019
 featured: false
-date: 2021-10-26T18:21:47.490Z
+date: 2021-11-01T12:15:13.382Z
 url_slides: ""
 title: On Finite Monoids over Nonnegative Integer Matrices and Short Killing Words
 tags: []
