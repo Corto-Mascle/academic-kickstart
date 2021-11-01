@@ -7,8 +7,6 @@ bio: I am a PhD student in LaBRI, Bordeaux, under the supervision of Anca
   problems over models of distributed systems, but I am interested in everything
   related to automata, logics and games.
 social: []
-education:
-  courses: []
 email: corto.mascle@labri.fr
 superuser: true
 ---
