@@ -16,6 +16,7 @@ author_notes:
   - UCLA
   - German Aerospace Center (DLR)
   - University of Liverpool
+doi: 10.1145/3365365.3382197
 publication: HSCC 2020
 draft: false
 featured: false
