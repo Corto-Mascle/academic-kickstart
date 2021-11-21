@@ -10,7 +10,7 @@ authors:
   - Alexander Weinert
   - Martin Zimmermann
 author_notes:
-  - ENSParis-Saclay
+  - ENS Paris-Saclay
   - Max Planck Institute for Software Systems
   - Saarland University
   - UCLA
