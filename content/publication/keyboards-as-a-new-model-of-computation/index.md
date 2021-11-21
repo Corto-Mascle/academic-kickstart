@@ -7,6 +7,11 @@ authors:
   - Bastien Laboureix
   - Corto Mascle
   - Valentin D. Richard
+author_notes:
+  - ENS Paris-Saclay
+  - ENS Paris-Saclay
+  - ENS Paris-Saclay
+  - ENS Paris-Saclay
 doi: 10.4230/LIPIcs.MFCS.2021.49
 publication: MFCS 2021
 draft: false
