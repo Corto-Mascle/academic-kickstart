@@ -27,9 +27,9 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: ""
+doi: 10.4230/LIPIcs.STACS.2019.43
 ---
