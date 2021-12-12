@@ -35,11 +35,6 @@ coordinates:
 directions: Office 257
 office_hours: ''
 appointment_url: ''
-contact_links:
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
 
 # Site header
 
